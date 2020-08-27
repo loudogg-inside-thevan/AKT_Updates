@@ -1,0 +1,89 @@
+Fund Name,Ticker,Risk-Ret Profile,Tenure,Vol Profile,Fees,Performance,Eq Corr,FI Corr
+361 Global Long/Short Equity,AGAZX,Alternative Beta,Greater - 5,Inbetween,Above,Above,High,None
+361 Global Long/Short Equity  ,AGAQX,Alternative Beta,Greater - 5,Inbetween,Above,Above,High,None
+AB Select US Long/Short Portfolio    ,ASYLX,Alternative FI,Greater - 5,Inbetween,Below,Above,High,None
+Abbey Capital Futures Strategy  ,ABYIX,Alternative FI,Greater - 5,Inbetween,Above,Above,None,Low
+AllianzGI Structured Return  ,AZIPX,Alternative Beta,Greater - 5,Comparable - Equity,Comparable,Below,High,None
+AlphaSimplex Global Alternatives   ,GAFYX,Alternative FI,Greater - 10,Inbetween,Below,Above,High,None
+AlphaSimplex Managed Futures Strategy   ,ASFYX,Alternative FI,Greater - 5,Inbetween,Below,Above,None,Moderate
+Altegris Futures Evolution Strategy   ,EVONX,Alternative Beta,Greater - 5,Inbetween,Above,Below,Moderate,Low
+American Beacon AHL Managed Futures Strategy   ,AHLPX,Alternative FI,Greater - 5,Inbetween,Above,Above,Negative,Low
+American Beacon AHL TargetRisk   ,AHTPX,Alternative FI,Less - 3,Inbetween,Comparable,Below,Moderate,Moderate
+AQR Diversified Arbitrage ,ADANX,Alternative Beta,Greater - 10,Inbetween,Above,Above,High,Low
+AQR Equity Market Neutral ,QMNNX,Core Alternative,Greater - 5,Inbetween,Above,Below,None,None
+AQR Global Macro ,QGMNX,Core Alternative,Greater - 5,Inbetween,Above,Above,Moderate,Negative
+AQR Long/Short Equity ,QLENX,Alternative Equity,Greater - 5,Inbetween,Below,Below,High,None
+AQR Managed Futures Strategy ,AQMNX,Alternative FI,Greater - 10,Inbetween,Below,Below,None,Low
+AQR Managed Futures Strategy HV ,QMHNX,Alternative FI,Greater - 5,Inbetween,Above,Below,None,Low
+AQR Multi-Strategy Alternative ,ASANX,Alternative Beta,Greater - 5,Inbetween,Above,Below,High,None
+AQR Style Premia Alternative ,QSPNX,Core Alternative,Greater - 5,Inbetween,Above,Below,Low,Negative
+AQR Style Premia Alternative LV ,QSLNX,Core Alternative,Greater - 5,Inbetween,Below,Below,Low,Negative
+Arbitrage   ,ARBFX,Core Alternative,Greater - 10,Comparable - FI,Above,Above,High,Low
+BlackRock Event Driven Equity ,BALPX,Core Alternative,Greater - 10,Inbetween,Below,Above,High,Low
+BlackRock Global Long/Short Credit ,BGCAX,Alternative Beta,Greater - 5,Inbetween,Above,Below,High,Low
+BlackRock Global Long/Short Equity ,BDMAX,Alternative FI,Greater - 5,Inbetween,Comparable,Above,Low,Low
+BlackRock Systematic Multi-Strategy ,BAMBX,Alternative FI,Greater - 5,Inbetween,Below,Above,High,Moderate
+BlackRock Tactical Opportunities    ,PCBSX,Core Alternative,Greater - 10,Inbetween,Below,Above,Moderate,Negative
+Blackstone Alternative Multi-Strategy ,BXMIX,Alternative Beta,Greater - 5,Inbetween,Above,Above,High,Low
+BNY Mellon Alternative Diversifier Strategies,DRNAX,Alternative Beta,Greater - 5,Inbetween,Comparable,Below,High,Low
+BNY Mellon Dynamic Total Return,AVGAX,Alternative Beta,Greater - 10,Inbetween,Comparable,Below,High,None
+BNY Mellon Global Real Return,DRRAX,Alternative Beta,Greater - 10,Inbetween,Below,Above,High,Moderate
+Boston Partners Emerging Markets Dynamic Equity,BELSX,Alternative FI,Greater - 3,Inbetween,Below,Comparable,High,None
+Boston Partners Global Long/Short,BGLSX,Alternative Beta,Greater - 5,Inbetween,Above,Below,High,None
+Boston Partners Long/Short Research,BPIRX,Alternative Beta,Greater - 5,Inbetween,Above,Below,High,Negative
+BrandywineGLOBAL - Alternative Credit,LMAPX,Alternative Equity,Greater - 5,Inbetween,Comparable,Below,Moderate,Low
+Calamos Market Neutral Income,CVSIX,Core Alternative,Greater - 10,Comparable - FI,Below,Above,High,None
+Catalyst/Millburn Hedge Strategy Fund  ,MBXIX,Alternative Beta,Greater - 3,Inbetween,Above,Comparable,High,None
+Catalyst/Warrington Strategic Program,CWXAX,Core Alternative,Greater - 5,Inbetween,Above,Below,Negative,None
+Columbia Multi Strategy Alternatives    ,CLFUX,Alternative FI,Greater - 5,Inbetween,Below,Below,Moderate,None
+Credit Suisse Managed Futures Strategy  ,CSAIX,Alternative FI,Greater - 5,Inbetween,Below,Below,Negative,Low
+Credit Suisse Multialternative Strategy,CSQAX,Alternative FI,Greater - 5,Inbetween,Below,Above,Low,Negative
+Diamond Hill Long-Short,DIAMX,Alternative Beta,Greater - 10,Inbetween,Below,Below,High,None
+Driehaus Active Income,LCMAX,Alternative Equity,Greater - 10,Inbetween,Below,Below,High,None
+Franklin K2 Alternative Strategies    ,FABZX,Alternative FI,Greater - 5,Inbetween,Above,Above,High,None
+Franklin K2 Long Short Credit    ,FKLZX,Alternative Beta,Greater - 3,Inbetween,Above,Above,High,Low
+FS Multi-Strategy Alternatives ,FSMSX,Alternative FI,Greater - 3,Comparable - FI,Comparable,Above,Moderate,Low
+Gateway   ,GTEYX,Alternative Beta,Greater - 10,Inbetween,Below,Above,High,None
+Glenmede Secured Options Portfolio ,GTSOX,Alternative Beta,Greater - 10,Inbetween,Comparable,Above,High,None
+Goldman Sachs Absolute Return Tracker    ,GSRTX,Alternative Beta,Greater - 10,Inbetween,Below,Above,High,None
+Goldman Sachs Long Short Credit Strategies   ,GSAWX,Alternative Beta,Greater - 5,Inbetween,Comparable,Above,High,Low
+Goldman Sachs Multi-Manager Alternatives     ,GIMMX,Alternative FI,Greater - 5,Inbetween,Comparable,Above,High,Moderate
+Gotham Absolute Return,GARIX,Alternative Beta,Greater - 5,Inbetween,Above,Comparable,High,Negative
+Infinity Q Diversified Alpha ,IQDAX,Core Alternative,Greater - 5,Inbetween,Above,Above,Negative,Negative
+Invesco Oppenheimer Fundamental Alternatives    ,QOPYX,Alternative FI,Greater - 10,Inbetween,Below,Above,High,Negative
+JHancock Absolute Return Currency  ,JCUIX,Alternative FI,Greater - 5,Inbetween,Below,Comparable,Negative,None
+JHancock Alternative Asset Allocation,JAAAX,Alternative FI,Greater - 10,Inbetween,Below,Above,High,Low
+JHancock Multi-Asset Absolute Return  ,JHAIX,Alternative FI,Greater - 5,Inbetween,Below,Above,High,Low
+JHancock Seaport Long/Short  ,JSFDX,Alternative Beta,Greater - 5,Inbetween,Below,Above,High,None
+JPMorgan Hedged Equity,JHQAX,Alternative FI,Greater - 5,Inbetween,Below,Above,High,None
+JPMorgan Opportunistic Equity Long Short,JOELX,Core Alternative,Greater - 5,Inbetween,Above,Above,Moderate,Negative
+Litman Gregory Masters Alternative Strategies ,MASNX,Alternative Beta,Greater - 5,Inbetween,Below,Above,High,Low
+LoCorr Macro Strategies,LFMAX,Alternative FI,Greater - 5,Inbetween,Above,Above,Moderate,Moderate
+LoCorr Market Trend,LOTAX,Alternative Beta,Greater - 5,Inbetween,Above,Below,Moderate,Low
+Loomis Sayles Strategic Alpha   ,LASYX,Core Alternative,Greater - 5,Inbetween,Below,Above,High,Low
+Merger ,MERFX,Core Alternative,Greater - 10,Comparable - FI,Above,Above,High,None
+Neuberger Berman Long Short,NLSAX,Alternative Beta,Greater - 5,Inbetween,Above,Above,High,Low
+Neuberger Berman U.S. Equity Index PutWrite Strategy,NUPAX,Alternative Beta,Greater - 3,Inbetween,Below,Above,High,None
+PACE Alternative Strategies Investments ,PASPX,Alternative FI,Greater - 10,Inbetween,Above,Above,High,None
+Partners III Opportunity,WPOPX,Alternative Beta,Greater - 10,Inbetween,Below,Above,High,Low
+PGIM QMA Long-Short Equity,PLHAX,Alternative Beta,Greater - 5,Inbetween,Above,Below,High,Negative
+PIMCO Credit Opportunities Bond   ,PPCRX,Alternative Beta,Greater - 5,Inbetween,Below,Above,High,Low
+PIMCO Emerging Markets Currency and Short-Term Investments  ,PLMPX,Alternative Beta,Greater - 10,Inbetween,Below,Below,High,None
+PIMCO Emerging Markets Local Currency and Bond   ,PELPX,Alternative Beta,Greater - 10,Inbetween,Below,Below,High,None
+PIMCO RAE Fundamental Advantage PLUS,PTFAX,Alternative Equity,Greater - 10,Inbetween,Below,Below,High,Negative
+PIMCO RAE Worldwide Long/Short PLUS  ,PWLIX,Alternative Beta,Greater - 5,Inbetween,Below,Below,High,None
+PIMCO TRENDS Managed Futures Strategy  ,PQTPX,Alternative FI,Greater - 5,Inbetween,Below,Above,Negative,Low
+Principal Global Multi-Strategy,PMSAX,Alternative Beta,Greater - 5,Inbetween,Above,Above,High,Low
+Putnam Multi-Asset Absolute Return ,PDMBX,Alternative FI,Greater - 10,Inbetween,Above,Below,Moderate,Low
+Putnam Multi-Asset Absolute Return     ,PDMYX,Alternative FI,Greater - 10,Inbetween,Below,Below,Moderate,Low
+SEI Multi-Strategy Alternative,SMSAX,Core Alternative,Greater - 10,Inbetween,Above,Above,High,None
+Swan Defined Risk,SDRAX,Alternative Beta,Greater - 5,Inbetween,Above,Above,High,None
+The Gabelli ABC,GADVX,Alternative FI,Greater - 10,Comparable - FI,Below,Above,High,Low
+The Gabelli ABC ,GABCX,Alternative FI,Greater - 10,Comparable - FI,Below,Above,High,Low
+Vanguard Alternative Strategies,VASFX,Alternative Beta,Greater - 3,Inbetween,Below,Below,Moderate,Low
+Vanguard Market Neutral ,VMNFX,Core Alternative,Greater - 10,Inbetween,Below,Below,Low,Negative
+Vivaldi Merger Arbitrage,VARAX,Core Alternative,Greater - 10,Comparable - FI,Above,Comparable,Moderate,Low
+Water Island Credit Opportunities  ,ACFIX,Alternative Equity,Greater - 5,Inbetween,Above,Above,High,Low
+Water Island Diversified Event-Driven   ,AEDFX,Core Alternative,Greater - 5,Inbetween,Above,Above,High,Low
+Western Asset Macro Opportunities,LAAAX,Alternative Beta,Greater - 5,Inbetween,Above,Above,High,Low
+William Blair Macro Allocation ,WMCNX,Core Alternative,Greater - 5,Inbetween,Comparable,Below,Moderate,Negative

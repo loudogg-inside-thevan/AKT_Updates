@@ -1,0 +1,307 @@
+ProgramName,Share Class,Ticker,Share Class Type,Tenure (Mos)
+361GlobalLong/ShortEquity,Class I,AGAZX,Fee Based,67
+361GlobalLong/ShortEquity,Class Y,AGAWX,Institutional,67
+361GlobalLong/ShortEquity,Investor Class,AGAQX,Fee Based,67
+ABSelectUSLong/ShortPortfolio,Class A,ASLAX,A Share,91
+ABSelectUSLong/ShortPortfolio,Class C,ASCLX,C Share,91
+ABSelectUSLong/ShortPortfolio,Class I,ASILX,Institutional,91
+ABSelectUSLong/ShortPortfolio,Class R,ASRLX,Retirement,91
+ABSelectUSLong/ShortPortfolio,Advisor,ASYLX,Fee Based,91
+ABSelectUSLong/ShortPortfolio,Class K,ASLKX,Retirement,91
+AbbeyCapitalFuturesStrategy,Class A,ABYAX,A Share,70
+AbbeyCapitalFuturesStrategy,Class C,ABYCX,C Share,57
+AbbeyCapitalFuturesStrategy,Class I,ABYIX,Institutional,72
+AllianzGIStructuredReturn,Class A,AZIAX,A Share,91
+AllianzGIStructuredReturn,Class C,AZICX,C Share,91
+AllianzGIStructuredReturn,Class P,AZIPX,Fee Based,91
+AllianzGIStructuredReturn,Institutional,AZIIX,Institutional,91
+AllianzGIStructuredReturn,Class R6,AZIRX,Retirement,43
+AlphaSimplexGlobalAlternatives,Class A,GAFAX,A Share,140
+AlphaSimplexGlobalAlternatives,Class C,GAFCX,C Share,140
+AlphaSimplexGlobalAlternatives,Class N,GAFNX,Institutional,86
+AlphaSimplexGlobalAlternatives,Class Y,GAFYX,Fee Based,140
+AlphaSimplexManagedFuturesStrategy,Class A,AMFAX,A Share,119
+AlphaSimplexManagedFuturesStrategy,Class C,ASFCX,C Share,120
+AlphaSimplexManagedFuturesStrategy,Class N,AMFNX,Institutional,38
+AlphaSimplexManagedFuturesStrategy,Class Y,ASFYX,Fee Based,119
+AltegrisFuturesEvolutionStrategy,Class A,EVOAX,A Share,105
+AltegrisFuturesEvolutionStrategy,Class C,EVOCX,C Share,101
+AltegrisFuturesEvolutionStrategy,Class I,EVOIX,Institutional,105
+AltegrisFuturesEvolutionStrategy,Class N,EVONX,Fee Based,105
+AmericanBeaconAHLManagedFuturesStrategy,Class A,AHLAX,A Share,71
+AmericanBeaconAHLManagedFuturesStrategy,Class C,AHLCX,C Share,71
+AmericanBeaconAHLManagedFuturesStrategy,Class Y,AHLYX,Institutional,71
+AmericanBeaconAHLManagedFuturesStrategy,Investor,AHLPX,Fee Based,71
+AmericanBeaconAHLManagedFuturesStrategy,Class R5,AHLIX,Institutional,16
+AmericanBeaconAHLTargetRisk,Class A,AHTAX,A Share,15
+AmericanBeaconAHLTargetRisk,Class C,AHACX,C Share,15
+AmericanBeaconAHLTargetRisk,Class Y,AHTYX,Institutional,19
+AmericanBeaconAHLTargetRisk,Investor,AHTPX,Fee Based,19
+AmericanBeaconAHLTargetRisk,Class R5,AHTIX,Institutional,19
+AQRDiversifiedArbitrage,Class I,ADAIX,Institutional,138
+AQRDiversifiedArbitrage,Class N,ADANX,Fee Based,138
+AQRDiversifiedArbitrage,Class R6,QDARX,Retirement,70
+AQREquityMarketNeutral,Class I,QMNIX,Institutional,69
+AQREquityMarketNeutral,Class N,QMNNX,Fee Based,69
+AQREquityMarketNeutral,Class R6,QMNRX,Retirement,69
+AQRGlobalMacro,Class I,QGMIX,Institutional,75
+AQRGlobalMacro,Class N,QGMNX,Fee Based,75
+AQRGlobalMacro,Class R6,QGMRX,Retirement,70
+AQRLong/ShortEquity,Class I,QLEIX,Institutional,84
+AQRLong/ShortEquity,Class N,QLENX,Fee Based,84
+AQRLong/ShortEquity,Class R6,QLERX,Retirement,70
+AQRManagedFuturesStrategy,Class I,AQMIX,Institutional,126
+AQRManagedFuturesStrategy,Class N,AQMNX,Fee Based,126
+AQRManagedFuturesStrategy,Class R6,AQMRX,Retirement,70
+AQRManagedFuturesStrategyHV,Class I,QMHIX,Institutional,84
+AQRManagedFuturesStrategyHV,Class N,QMHNX,Fee Based,84
+AQRManagedFuturesStrategyHV,Class R6,QMHRX,Retirement,70
+AQRMulti-StrategyAlternative,Class I,ASAIX,Institutional,108
+AQRMulti-StrategyAlternative,Class N,ASANX,Fee Based,108
+AQRMulti-StrategyAlternative,Class R6,QSARX,Retirement,70
+AQRStylePremiaAlternative,Class I,QSPIX,Institutional,81
+AQRStylePremiaAlternative,Class N,QSPNX,Fee Based,81
+AQRStylePremiaAlternative,Class R6,QSPRX,Retirement,70
+AQRStylePremiaAlternativeLV,I Shares,QSLIX,Institutional,70
+AQRStylePremiaAlternativeLV,N Shares,QSLNX,Fee Based,70
+AQRStylePremiaAlternativeLV,R6 Shares,QSLRX,Retirement,70
+Arbitrage,Class A,ARGAX,A Share,86
+Arbitrage,Class C,ARBCX,C Share,98
+Arbitrage,Class I,ARBNX,Institutional,150
+Arbitrage,Class R,ARBFX,Fee Based,150
+BlackRockEventDrivenEquity,Institutional,BILPX,Institutional,150
+BlackRockEventDrivenEquity,Investor A,BALPX,A Share,150
+BlackRockEventDrivenEquity,Investor C,BCLPX,C Share,150
+BlackRockGlobalLong/ShortCredit,Institutional,BGCIX,Institutional,105
+BlackRockGlobalLong/ShortCredit,Investor A,BGCAX,A Share,105
+BlackRockGlobalLong/ShortCredit,Investor C,BGCCX,C Share,105
+BlackRockGlobalLong/ShortCredit,Class K,BDMKX,Retirement,52
+BlackRockGlobalLong/ShortEquity,Institutional,BDMIX,Institutional,91
+BlackRockGlobalLong/ShortEquity,Investor A,BDMAX,A Share,91
+BlackRockGlobalLong/ShortEquity,Investor C,BDMCX,C Share,91
+BlackRockGlobalLong/ShortEquity,Class K,BGCKX,Retirement,52
+BlackRockSystematicMulti-Strategy,Institutional,BIMBX,Institutional,62
+BlackRockSystematicMulti-Strategy,Investor A,BAMBX,A Share,62
+BlackRockSystematicMulti-Strategy,Investor C,BMBCX,C Share,62
+BlackRockTacticalOpportunities,Institutional,PBAIX,Institutional,138
+BlackRockTacticalOpportunities,Investor A,PCBAX,A Share,138
+BlackRockTacticalOpportunities,Investor C,BRBCX,C Share,138
+BlackRockTacticalOpportunities,Class K,PBAKX,Retirement,47
+BlackRockTacticalOpportunities,Service,PCBSX,Fee Based,138
+BlackstoneAlternativeMulti-Strategy,Class D,BXMDX,Fee Based,68
+BlackstoneAlternativeMulti-Strategy,Class I,BXMIX,Institutional,73
+BlackstoneAlternativeMulti-Strategy,Class Y,BXMYX,Institutional,66
+BNYMellonAlternativeDiversifierStrategies,Class A,DRNAX,A Share,76
+BNYMellonAlternativeDiversifierStrategies,Class C,DRNCX,C Share,76
+BNYMellonAlternativeDiversifierStrategies,Class I,DRNIX,Institutional,76
+BNYMellonAlternativeDiversifierStrategies,Class Y,DRYNX,Institutional,76
+BNYMellonDynamicTotalReturn,Class A,AVGAX,A Share,151
+BNYMellonDynamicTotalReturn,Class C,AVGCX,C Share,151
+BNYMellonDynamicTotalReturn,Class I,AVGRX,Institutional,151
+BNYMellonDynamicTotalReturn,Class Y,AVGYX,Institutional,84
+BNYMellonGlobalRealReturn,Class A,DRRAX,A Share,122
+BNYMellonGlobalRealReturn,Class C,DRRCX,C Share,122
+BNYMellonGlobalRealReturn,Class I,DRRIX,Institutional,122
+BNYMellonGlobalRealReturn,Class Y,DRRYX,Institutional,84
+BostonPartnersEmergingMarketsDynamicEquity,Institutional Class,BELSX,Institutional,55
+BostonPartnersGlobalLong/Short,Institutional,BGLSX,Institutional,78
+BostonPartnersGlobalLong/Short,Investor,BGRSX,Fee Based,75
+BostonPartnersLong/ShortResearch,Institutional,BPIRX,Institutional,117
+BostonPartnersLong/ShortResearch,Investor,BPRRX,Fee Based,116
+BrandywineGLOBAL-AlternativeCredit,Class A,LMAPX,A Share,119
+BrandywineGLOBAL-AlternativeCredit,Class C,LMAQX,C Share,119
+BrandywineGLOBAL-AlternativeCredit,Class I,LMANX,Institutional,119
+BrandywineGLOBAL-AlternativeCredit,Class FI,LMAOX,Retirement,119
+BrandywineGLOBAL-AlternativeCredit,Class IS,LMAMX,Institutional,119
+CalamosMarketNeutralIncome,Class A,CVSIX,A Share,151
+CalamosMarketNeutralIncome,Class C,CVSCX,C Share,151
+CalamosMarketNeutralIncome,Class I,CMNIX,Retirement,151
+Catalyst/MillburnHedgeStrategyFund,Class A,MBXAX,A Share,55
+Catalyst/MillburnHedgeStrategyFund,Class C,MBXCX,C Share,55
+Catalyst/MillburnHedgeStrategyFund,Class I,MBXIX,Fee Based,55
+Catalyst/WarringtonStrategicProgram,Class A,CWXAX,A Share,82
+Catalyst/WarringtonStrategicProgram,Class C,CWXCX,C Share,80
+Catalyst/WarringtonStrategicProgram,Class I,CWXIX,Institutional,82
+ColumbiaMultiStrategyAlternatives,Class A,CLAAX,A Share,66
+ColumbiaMultiStrategyAlternatives,Class C,CLABX,C Share,66
+ColumbiaMultiStrategyAlternatives,Class R,CRRLX,Retirement,66
+ColumbiaMultiStrategyAlternatives,Institutional,CLAZX,Institutional,66
+ColumbiaMultiStrategyAlternatives,Advisor,CLFUX,Fee Based,66
+ColumbiaMultiStrategyAlternatives,Institutional 2,CLIVX,Institutional,66
+ColumbiaMultiStrategyAlternatives,Institutional 3,CLAYX,Institutional,66
+CreditSuisseManagedFuturesStrategy,Class A,CSAAX,A Share,93
+CreditSuisseManagedFuturesStrategy,Class C,CSACX,C Share,93
+CreditSuisseManagedFuturesStrategy,Class I,CSAIX,Institutional,114
+CreditSuisseMultialternativeStrategy,Class A,CSQAX,A Share,100
+CreditSuisseMultialternativeStrategy,Class I,CSQIX,Institutional,100
+DiamondHillLong-Short,Class A,DIAMX,A Share,139
+DiamondHillLong-Short,Class C,DHFCX,C Share,139
+DiamondHillLong-Short,Class I,DHLSX,Institutional,139
+DiamondHillLong-Short,Class Y,DIAYX,Fee Based,103
+DriehausActiveIncome,Investor,LCMAX,Fee Based,151
+FranklinK2AlternativeStrategies,Class A,FAAAX,A Share,80
+FranklinK2AlternativeStrategies,Class C,FASCX,C Share,80
+FranklinK2AlternativeStrategies,Class R,FSKKX,Retirement,80
+FranklinK2AlternativeStrategies,Class R6,FASRX,Retirement,80
+FranklinK2AlternativeStrategies,Advisor Class,FABZX,Fee Based,80
+FranklinK2LongShortCredit,Class A,FKLSX,A Share,57
+FranklinK2LongShortCredit,Class C,FKLCX,C Share,58
+FranklinK2LongShortCredit,Class R,FKLRX,Retirement,58
+FranklinK2LongShortCredit,Class R6,FKLQX,Retirement,58
+FranklinK2LongShortCredit,Advisor Class,FKLZX,Fee Based,57
+FSMulti-StrategyAlternatives,Class A,FSMMX,A Share,38
+FSMulti-StrategyAlternatives,Class I,FSMSX,Fee Based,38
+Gateway,Class A,GATEX,A Share,150
+Gateway,Class C,GTECX,C Share,149
+Gateway,Class N,GTENX,Institutional,38
+Gateway,Class Y,GTEYX,Fee Based,148
+GlenmedeSecuredOptionsPortfolio,Institutional,GLSOX,Institutional,49
+GlenmedeSecuredOptionsPortfolio,Advisor,GTSOX,Fee Based,121
+GoldmanSachsAbsoluteReturnTracker,Class A,GARTX,A Share,145
+GoldmanSachsAbsoluteReturnTracker,Class C,GCRTX,C Share,145
+GoldmanSachsAbsoluteReturnTracker,Class R,GRRTX,Retirement,145
+GoldmanSachsAbsoluteReturnTracker,Institutional,GJRTX,Institutional,145
+GoldmanSachsAbsoluteReturnTracker,Investor,GSRTX,Fee Based,145
+GoldmanSachsAbsoluteReturnTracker,Class R-6,GARUX,Fee Based,59
+GoldmanSachsLongShortCreditStrategies,Class A,GSAUX,A Share,74
+GoldmanSachsLongShortCreditStrategies,Class C,GSAVX,C Share,74
+GoldmanSachsLongShortCreditStrategies,Class R,GSAZX,Retirement,74
+GoldmanSachsLongShortCreditStrategies,Institutional,GSAWX,Institutional,76
+GoldmanSachsLongShortCreditStrategies,Investor,GSAYX,Fee Based,74
+GoldmanSachsLongShortCreditStrategies,Class R-6,GSSAX,Fee Based,32
+GoldmanSachsMulti-ManagerAlternatives,Class A,GMAMX,A Share,87
+GoldmanSachsMulti-ManagerAlternatives,Class C,GMCMX,C Share,87
+GoldmanSachsMulti-ManagerAlternatives,Class R,GRMMX,Retirement,87
+GoldmanSachsMulti-ManagerAlternatives,Institutional,GSMMX,Institutional,87
+GoldmanSachsMulti-ManagerAlternatives,Class R6,GMMFX,Fee Based,29
+GoldmanSachsMulti-ManagerAlternatives,Investor Shares,GIMMX,Fee Based,87
+GothamAbsoluteReturn,Institutional Class,GARIX,Institutional,94
+InfinityQDiversifiedAlpha,Institutional,IQDNX,Institutional,70
+InfinityQDiversifiedAlpha,Investor,IQDAX,Fee Based,70
+InvescoOppenheimerFundamentalAlternatives,Class A,QVOPX,A Share,150
+InvescoOppenheimerFundamentalAlternatives,Class C,QOPCX,C Share,150
+InvescoOppenheimerFundamentalAlternatives,Class R,QOPNX,Retirement,150
+InvescoOppenheimerFundamentalAlternatives,Class R6,QOPIX,Institutional,89
+InvescoOppenheimerFundamentalAlternatives,Class Y,QOPYX,Fee Based,150
+InvescoOppenheimerFundamentalAlternatives,Class R5,FDATX,Institutional,14
+JHancockAbsoluteReturnCurrency,Class A,JCUAX,A Share,120
+JHancockAbsoluteReturnCurrency,Class C,JCUCX,C Share,71
+JHancockAbsoluteReturnCurrency,Class I,JCUIX,Fee Based,120
+JHancockAbsoluteReturnCurrency,Class R6,JCURX,Retirement,105
+JHancockAbsoluteReturnCurrency,Class R2,JHCCX,Retirement,64
+JHancockAlternativeAssetAllocation,Class A,JAAAX,A Share,138
+JHancockAlternativeAssetAllocation,Class C,JAACX,C Share,109
+JHancockAlternativeAssetAllocation,Class I,JAAIX,Fee Based,115
+JHancockAlternativeAssetAllocation,Class R6,JAARX,Retirement,107
+JHancockAlternativeAssetAllocation,Class R2,JAAPX,Retirement,100
+JHancockAlternativeAssetAllocation,Class R4,JAASX,Retirement,84
+JHancockMulti-AssetAbsoluteReturn,Class A,JHAAX,A Share,103
+JHancockMulti-AssetAbsoluteReturn,Class C,JHACX,C Share,95
+JHancockMulti-AssetAbsoluteReturn,Class I,JHAIX,Fee Based,103
+JHancockMulti-AssetAbsoluteReturn,Class R6,JHASX,Retirement,100
+JHancockMulti-AssetAbsoluteReturn,Class R2,JHARX,Retirement,100
+JHancockSeaportLong/Short,Class A,JSFBX,A Share,79
+JHancockSeaportLong/Short,Class C,JSFTX,C Share,74
+JHancockSeaportLong/Short,Class I,JSFDX,Fee Based,79
+JHancockSeaportLong/Short,Class R6,JSFRX,Retirement,79
+JPMorganHedgedEquity,Class A,JHQAX,A Share,79
+JPMorganHedgedEquity,Class C,JHQCX,C Share,74
+JPMorganHedgedEquity,Class I,JHEQX,Institutional,74
+JPMorganHedgedEquity,Class R6,JHQRX,Retirement,74
+JPMorganHedgedEquity,Class R5,JHQPX,Retirement,71
+JPMorganOpportunisticEquityLongShort,Class A,JOELX,A Share,71
+JPMorganOpportunisticEquityLongShort,Class C,JOECX,C Share,71
+JPMorganOpportunisticEquityLongShort,Class I,JOEQX,Institutional,71
+JPMorganOpportunisticEquityLongShort,Class R6,JOERX,Retirement,71
+LitmanGregoryMastersAlternativeStrategies,Institutional Class,MASFX,Institutional,105
+LitmanGregoryMastersAlternativeStrategies,Investor Class,MASNX,Fee Based,105
+LoCorrMacroStrategies,Class A,LFMAX,A Share,111
+LoCorrMacroStrategies,Class C,LFMCX,C Share,111
+LoCorrMacroStrategies,Class I,LFMIX,Institutional,111
+LoCorrMarketTrend,Class A,LOTAX,A Share,72
+LoCorrMarketTrend,Class C,LOTCX,C Share,72
+LoCorrMarketTrend,Class I,LOTIX,Institutional,72
+LoomisSaylesStrategicAlpha,Class A,LABAX,A Share,115
+LoomisSaylesStrategicAlpha,Class C,LABCX,C Share,115
+LoomisSaylesStrategicAlpha,Class N,LASNX,Institutional,38
+LoomisSaylesStrategicAlpha,Class Y,LASYX,Fee Based,115
+Merger,Institutional Class,MERIX,Institutional,83
+Merger,Investor Class,MERFX,Fee Based,151
+NeubergerBermanLongShort,Class A,NLSAX,A Share,103
+NeubergerBermanLongShort,Class C,NLSCX,C Share,103
+NeubergerBermanLongShort,Institutional,NLSIX,Institutional,103
+NeubergerBermanU.S.EquityIndexPutWriteStrategy,Class A,NUPAX,A Share,46
+NeubergerBermanU.S.EquityIndexPutWriteStrategy,Class C,NUPCX,C Share,46
+NeubergerBermanU.S.EquityIndexPutWriteStrategy,Institutional,NUPIX,Institutional,46
+NeubergerBermanU.S.EquityIndexPutWriteStrategy,Class R6,NUPRX,Retirement,46
+PACEAlternativeStrategiesInvestments,Class A,PASIX,A Share,151
+PACEAlternativeStrategiesInvestments,Class P,PASPX,Fee Based,151
+PACEAlternativeStrategiesInvestments,Class Y,PASYX,Institutional,148
+PartnersIIIOpportunity,Institutional,WPOPX,Institutional,150
+PartnersIIIOpportunity,Investor,WPOIX,Fee Based,107
+PGIMQMALong-ShortEquity,Class A,PLHAX,A Share,74
+PGIMQMALong-ShortEquity,Class C,PLHCX,C Share,74
+PGIMQMALong-ShortEquity,Class Z,PLHZX,Institutional,74
+PGIMQMALong-ShortEquity,Class R6,PLHQX,Retirement,38
+PIMCOCreditOpportunitiesBond,Class A,PZCRX,A Share,106
+PIMCOCreditOpportunitiesBond,Class C,PCCRX,C Share,106
+PIMCOCreditOpportunitiesBond,Institutional,PCARX,Institutional,106
+PIMCOCreditOpportunitiesBond,Class I-2,PPCRX,Fee Based,106
+PIMCOEmergingMarketsCurrencyandShort-TermInvestments,Class A,PLMAX,A Share,139
+PIMCOEmergingMarketsCurrencyandShort-TermInvestments,Institutional,PLMIX,Institutional,139
+PIMCOEmergingMarketsCurrencyandShort-TermInvestments,I-2,PLMPX,Fee Based,139
+PIMCOEmergingMarketsLocalCurrencyandBond,Class A,PELAX,A Share,150
+PIMCOEmergingMarketsLocalCurrencyandBond,Class C,PELCX,C Share,150
+PIMCOEmergingMarketsLocalCurrencyandBond,Institutional Class,PELBX,Institutional,150
+PIMCOEmergingMarketsLocalCurrencyandBond,I-2,PELPX,Fee Based,145
+PIMCOEmergingMarketsLocalCurrencyandBond,I-3,PELNX,Fee Based,27
+PIMCORAEFundamentalAdvantagePLUS,Class A,PTFAX,A Share,144
+PIMCORAEFundamentalAdvantagePLUS,Institutional Class,PFATX,Institutional,149
+PIMCORAEWorldwideLong/ShortPLUS,Class A,PWLBX,A Share,10
+PIMCORAEWorldwideLong/ShortPLUS,Class C,PWLEX,C Share,10
+PIMCORAEWorldwideLong/ShortPLUS,Institutional,PWLIX,Institutional,67
+PIMCORAEWorldwideLong/ShortPLUS,I-2,PWLMX,Fee Based,11
+PIMCOTRENDSManagedFuturesStrategy,Class A,PQTAX,A Share,78
+PIMCOTRENDSManagedFuturesStrategy,Institutional,PQTIX,Institutional,78
+PIMCOTRENDSManagedFuturesStrategy,I-2,PQTPX,Fee Based,78
+PIMCOTRENDSManagedFuturesStrategy,I-3,PQTNX,Fee Based,27
+PrincipalGlobalMulti-Strategy,Class A,PMSAX,A Share,104
+PrincipalGlobalMulti-Strategy,Class C,PMSCX,C Share,97
+PrincipalGlobalMulti-Strategy,Institutional,PSMIX,Institutional,104
+PrincipalGlobalMulti-Strategy,Class R-6,PGLSX,Retirement,37
+PutnamMulti-AssetAbsoluteReturn,Class A,PDMAX,A Share,139
+PutnamMulti-AssetAbsoluteReturn,Class B,PDMBX,Fee Based,139
+PutnamMulti-AssetAbsoluteReturn,Class C,PDMCX,C Share,139
+PutnamMulti-AssetAbsoluteReturn,Class R,PDMRX,Retirement,139
+PutnamMulti-AssetAbsoluteReturn,Class R6,PDMEX,Retirement,96
+PutnamMulti-AssetAbsoluteReturn,Class Y,PDMYX,Fee Based,139
+SEIMulti-StrategyAlternative,Class F,SMSAX,Fee Based,123
+SEIMulti-StrategyAlternative,Class Y,SMUYX,Fee Based,63
+SwanDefinedRisk,Class A,SDRAX,A Share,96
+SwanDefinedRisk,Class C,SDRCX,C Share,93
+SwanDefinedRisk,Class I,SDRIX,Institutional,96
+SwanDefinedRisk,Class Y,SDRYX,Institutional,19
+TheGabelliABC,Advisor,GADVX,Fee Based,150
+TheGabelliABC,AAA,GABCX,Fee Based,150
+VanguardAlternativeStrategies,Investor,VASFX,Fee Based,59
+VanguardMarketNeutral,Institutional,VMNIX,Institutional,151
+VanguardMarketNeutral,Investor,VMNFX,Fee Based,151
+VivaldiMergerArbitrage,A Share,VARAX,A Share,150
+VivaldiMergerArbitrage,I Share,VARBX,Institutional,150
+WaterIslandCreditOpportunities,Class A,AGCAX,A Share,86
+WaterIslandCreditOpportunities,Class C,ARCCX,C Share,91
+WaterIslandCreditOpportunities,Class I,ACFIX,Institutional,93
+WaterIslandCreditOpportunities,Class R,ARCFX,Fee Based,91
+WaterIslandDiversifiedEvent-Driven,Class A,AGEAX,A Share,86
+WaterIslandDiversifiedEvent-Driven,Class C,AEFCX,C Share,98
+WaterIslandDiversifiedEvent-Driven,Class I,AEDNX,Institutional,117
+WaterIslandDiversifiedEvent-Driven,Class R,AEDFX,Fee Based,117
+WesternAssetMacroOpportunities,Class A,LAAAX,A Share,82
+WesternAssetMacroOpportunities,Class C,LAACX,C Share,82
+WesternAssetMacroOpportunities,Class I,LAOIX,Institutional,82
+WesternAssetMacroOpportunities,Class FI,LAFIX,Retirement,82
+WesternAssetMacroOpportunities,Class IS,LAOSX,Institutional,82
+WesternAssetMacroOpportunities,Class A2,LAATX,A Share,41
+WilliamBlairMacroAllocation,Class I,WMCIX,Institutional,104
+WilliamBlairMacroAllocation,Class N,WMCNX,Fee Based,104
+WilliamBlairMacroAllocation,Class R6,WMCJX,Institutional,81

@@ -1,0 +1,22 @@
+Identifier,Fee Avg,3 Year,Fee Low,Fee High,3 Low,3 High
+Alternative Allocation|A Share,0.0192,0.0032,0.0182,0.0202,0.0007,0.0057
+Alternative Allocation|Fee Based,0.0184,-0.0074,0.0174,0.0194,-0.0099,-0.0049
+Alternative Allocation|Institutional,0.0170,-0.0175,0.0160,0.0180,-0.0200,-0.0150
+Alternative Credit|A Share,0.0168,0.0183,0.0158,0.0178,0.0158,0.0208
+Alternative Credit|Fee Based,0.0128,0.0162,0.0118,0.0138,0.0137,0.0187
+Alternative Credit|Institutional,0.0120,0.0202,0.0110,0.0130,0.0177,0.0227
+Equity Long Short|A Share,0.0201,0.0218,0.0191,0.0211,0.0193,0.0243
+Equity Long Short|Fee Based,0.0201,-0.0008,0.0191,0.0211,-0.0033,0.0017
+Equity Long Short|Institutional,0.0182,0.0059,0.0172,0.0192,0.0034,0.0084
+Equity Market Neutral|A Share,0.0190,0.0193,0.0180,0.0200,0.0168,0.0218
+Equity Market Neutral|Fee Based,0.0168,0.0008,0.0158,0.0178,-0.0017,0.0033
+Equity Market Neutral|Institutional,0.0172,0.0059,0.0162,0.0182,0.0034,0.0084
+Equity Option|A Share,0.0133,0.0023,0.0123,0.0143,-0.0002,0.0048
+Equity Option|Fee Based,0.0080,-0.0194,0.0070,0.0090,-0.0219,-0.0169
+Equity Option|Institutional,0.0101,0.0076,0.0091,0.0111,0.0051,0.0101
+Global Allocation|A Share,0.0140,0.0272,0.0130,0.0150,0.0247,0.0297
+Global Allocation|Fee Based,0.0132,0.0169,0.0122,0.0142,0.0144,0.0194
+Global Allocation|Institutional,0.0106,0.0362,0.0096,0.0116,0.0337,0.0387
+Managed Futures|A Share,0.0189,0.0143,0.0179,0.0199,0.0118,0.0168
+Managed Futures|Fee Based,0.0167,0.0115,0.0157,0.0177,0.0090,0.0140
+Managed Futures|Institutional,0.0157,0.0122,0.0147,0.0167,0.0097,0.0147
