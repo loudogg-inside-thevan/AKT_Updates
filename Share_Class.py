@@ -7,8 +7,8 @@ import pandas as pd
 import pprint
 import openpyxl
 
-share_data = pd.read_csv('y - Share Classes.csv')                                  # file import
-pp = pprint.PrettyPrinter(indent=4)                                                # for testing the dictionaries
+file = "C:\\Users\\ljohnson\\PycharmProjects\\AKT_Updates\\Input Sheets\\y - Share Classes.csv"
+share_data = pd.read_csv(file)
 
 # Creates a dictionary composed of each fund and whose value is equal to a dictionary of the fund's share classes. The
 # value of each share class is also equal to a dictionary with kay-value pairs for class, ticker, and tenure data points.
@@ -140,5 +140,9 @@ for fund in AKT_dict:
 # Converts the ticker list into a dataframe.
 ticker_df = pd.DataFrame(ticker_list,columns=['AKT Tickers'])
 
-# Exports the ticker dataframe into an excel spreadsheet.
-ticker_df.to_excel("z - AKT Tickers.xlsx")
+# writes the ticker dataframe to an excel file within an output folder of the pycharm project
+
+out_path = "C:\\Users\\ljohnson\\PycharmProjects\\AKT_Updates\\Output Sheets\\AKT Tickers.xlsx"
+writer = pd.ExcelWriter(out_path, engine='openpyxl')
+ticker_df.to_excel(writer, sheet_name="AKT Tickers")
+writer.save()

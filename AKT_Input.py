@@ -8,7 +8,8 @@ import csv
 
 # Create a dataframe of the parameter data from the excel spreadsheet. The parameter csv file contains data that is
 # used to define Fees and Performance inputs below.
-param_df = pd.read_csv('y - Parameters.csv')                                           # file import
+file_param = "C:\\Users\\ljohnson\\PycharmProjects\\AKT_Updates\\Input Sheets\\y - Parameters.csv"
+param_df = pd.read_csv(file_param)
 param_df.set_index('Identifier', inplace=True)
 
 # Establish variables for the parameters used to create the AKT inputs. These must be updated by the user each quarter
@@ -25,10 +26,11 @@ mod_corr = 0.5
 
 # Create a dataframe of the fund data for iteration. The fund data csv file contains data exported from our proprietary
 # database that will be used in addition to the 'parameters' file to establish responses for the AKT process.
-df_2 = pd.read_csv('y - Fund Data.csv')                                                     # file import
+file_data = "C:\\Users\\ljohnson\\PycharmProjects\\AKT_Updates\\Input Sheets\\y - Fund Data.csv"
+df_2 = pd.read_csv(file_data)
 
 # Creates and writes a csv file with the respective AKT input responses for each fund (line item) in df_2.
-with open('z - AKT Data', 'w', newline='') as csvfile:
+with open('C:\\Users\\ljohnson\\PycharmProjects\\AKT_Updates\\Output Sheets\\z - AKT Data', 'w', newline='') as csvfile:
 
     # Writes the column headers for the csv file.
     akt_writer = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
@@ -128,5 +130,5 @@ with open('z - AKT Data', 'w', newline='') as csvfile:
         akt_writer.writerow([fund_name, ticker, risk_ret, tenure, vol, fees, perform, eq_corr, fi_corr])
 
 # Reads the newly written AKT data csv file and writes it into an excel file.
-read_file = pd.read_csv(r'C:\Users\ljohnson\PycharmProjects\AKT_Updates\z - AKT Data')
-read_file.to_excel(r'C:\Users\ljohnson\PycharmProjects\AKT_Updates\z - AKT Input Data.xlsx', index=None, header=True)
+read_file = pd.read_csv(r'C:\Users\ljohnson\PycharmProjects\AKT_Updates\Output Sheets\z - AKT Data')
+read_file.to_excel(r'C:\Users\ljohnson\PycharmProjects\AKT_Updates\Output Sheets\AKT Input Data.xlsx', index=None, header=True)
